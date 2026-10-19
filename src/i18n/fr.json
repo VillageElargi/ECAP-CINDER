@@ -1,0 +1,125 @@
+{
+  "slogan": "Allume ma flamme",
+  "start": "Démarrer",
+
+  "profiles": {
+    "1": {
+      "name": "Le frigo (défaut, poussière, compresseur)",
+      "bio": "Je suis froid au premier abord et ne t'attends pas à ce que je m'ouvre facilement. Mais si le courant passe bien, je te ferai découvrir mon côté torride ! ",
+      "h_1": "#SnackTime"
+    },
+    "2": {
+      "name": "Le lave-vaisselle (sans défaut)",
+      "bio": "Je suis là pour laver tes péchés les plus sales. Utilise-moi comme tu le souhaites. 🖤",
+      "h_1": "#DomDaddy"
+    },
+    "3": {
+      "name": "Airfryer (sans défaut)",
+      "bio": "Soyons honnêtes, tout le monde ne parle que de moi en ce moment, et je suis bien plus sain que tes ex. Je sais comment te combler en un temps record. Tu ne pourras plus te passer de moi. 🥵",
+      "h_1": "#Influenceur"
+    },
+    "4": {
+      "name": "L’aspirateur (sans défaut)",
+      "bio": "J'ai un grand besoin d'affection et j'aspire à une relation exclusive. Les coups d’un soir, non merci, du balai !",
+      "h_1": "#BCBJ"
+    },
+    "5": {
+      "name": "Le ventilateur (sans défaut)",
+      "bio": "On me dit souvent que je brasse de l’air… Moi je dis, he bien tant mieux ! Haha, on se voit en coup de vent bientôt ?",
+      "h_1": "#Fun",
+      "h_2": "#Comédie"
+    },
+    "6": {
+      "name": "La trottinette électrique (sans défaut)",
+      "bio": "Je vais te faire planer, mais je peux t'abandonner en pleine nature sans batterie si tu me trahis…",
+      "h_1": "#Sans protection"
+    },
+    "7": {
+      "name": "Brosse à dents électrique (sans défaut)",
+      "bio": "Bonjour. Je suis un peu timide et c'est ma première fois ici. Si je tremble, ne t'inquiète pas, c'est normal. J'espère que mes vibrations ne vont pas te faire peur…",
+      "h_1": "#VibrerEnsemble"
+    },
+    "8": {
+      "name": "Séche-linge (sans défaut)",
+      "bio": "Laisse-moi t'envelopper de ma chaleur. Je suis la raison parfaite pour te déshabiller et passer la nuit au chaud, bien emmitouflés l'un contre l'autre. Tu viens faire un tour chez moi ce soir ?",
+      "h_1": "#Humide"
+    },
+    "9": {
+      "name": "Machine à café (sans défaut)",
+      "bio": "Je suis le frisson qui te fera vibrer dès le réveil et le secret de tes matins les plus torrides. Je libère les arômes qui te feront succomber. Goûte-moi une fois, et tu ne pourras plus t'en passer.",
+      "h_1": "#DoubleEspresso"
+    },
+    "10": {
+      "name": "L’ordinateur de bureau (sans défaut)",
+      "bio": "Je veux connaître tous tes désirs secrets et les graver dans mon SSD. Ma RAM n'attend que toi... Si tu cherches une connexion intense et sans bug, swipe à droite pour ouvrir mon CPU.",
+      "h_1": "#11010001"
+    },
+    "11": {
+      "name": "Cheminée (sans défaut)",
+      "bio": "Match si tu aimes regarder les flammes danser et partager des histoires au coin du feu… On est faits pour s'entendre ! 🔥",
+      "h_1": "#Hiver"
+    },
+    "12": {
+      "name": "Platine vinyle (sans défaut)",
+      "bio": "Grand adepte du slow dating, je prends le temps d'écouter mon cœur. Je cherche une âme sensible aux bonnes vibrations. Quel morceau est gravé dans ton cœur ?",
+      "h_1": "#RickyMartin",
+      "h_2": "#EltonJohn"
+    },
+    "13": {
+      "name": "Manette de console (sans défaut)",
+      "bio": "Toujours prête pour l'action, j'adore qu'on me prenne en main et qu'on vibre au rythme de l'aventure. Je suis très tactile et m’active au quart de tour. On fait une partie en co-op ?",
+      "h_1": "#Gamergirl"
+    },
+    "14": {
+      "name": "Micro-ondes (sans défaut)",
+      "bio": "Je n'ai pas le temps pour les longs discours, je suis direct et je t'emballe en moins de deux minutes top chrono. J'aime les rendez-vous nocturnes sans chichi. Si tu aimes que ça tourne rond, fais-moi signe.",
+      "h_1": "#Ready",
+      "h_2": "#Steady",
+      "h_3": "#Go!"
+    },
+    "15": {
+      "name": "Fer à repasser (sans défaut)",
+      "bio": "Je déteste le laisser-aller. Avec moi, tout doit être parfaitement droit et lisse. Je me mettrai sur mon 31 et, si tu es de taille, nous éliminerons ensemble tous les plis de la vie !",
+      "h_1": "#PicoBello"
+    },
+    "16": {
+      "name": "Chauffage électrique (défaut, objet sur partie chaude)",
+      "bio": "Mon grand moment de gloire, c'est quand le mercure frôle le zéro. Ma chaleur électrique te fera oublier les coups de froid. Mon plan parfait : un coin douillet sous la couverture.",
+      "h_1": "#CocooningLife"
+    },
+    "17": {
+      "name": "Téléphone (défaut, batterie gonflée) MATCH",
+      "bio": "Toujours connecté, j'ai tendance à perdre la notion du temps sur TikTok. En contrepartie, je propose des milliers de souvenirs et des réveils matinaux. Je cherche quelqu'un de doux qui me rechargera tous les soirs. ❤️",
+      "h_1": "#MemeLover",
+      "h_2": "#BBL"
+    },
+    "18": {
+      "name": "Bouilloire (défaut, pas de certifications et trace de surchauffe) MATCH",
+      "bio": "Je bouillonne d'idées et j'aime infuser des mélanges exotiques improbables. Je recherche un partenaire curieux pour les tester. Pourras-tu me faire fondre… ?",
+      "h_1": "#MadeInChina",
+      "h_2": "#Tasty"
+    },
+    "19": {
+      "name": "Sèche-cheveux (défaut, étincelles moteur)",
+      "bio": "Introverti au placard, mais très bruyant dès qu'on me cherche ! Ma passion : souffler un vent de panique sur tes mèche rebelles. Sois prêt à faire des étincelles !",
+      "h_1": "#Caliente"
+    },
+    "20": {
+      "name": "Profil multiprise (défaut, connexion en chaîne) MATCH",
+      "bio": "Je suis le manager en chef de quatre petits câbles capricieux et de leurs familles. Je ne juge aucun appareil. Combien d'appareils as-tu branchés en ce moment même ? 😉",
+      "h_1": "#Connecté",
+      "h_2": "#Overbooké"
+    }
+  },
+
+  "thats_match": "C'est un match !",
+  "good_job": "Bien joué ! Tu as trouvé la bonne personne.",
+  "continue": "Continuer",
+  "calm": "C'est calme par ici",
+  "continue_swipe": "Continue à swiper pour obtenir tes premiers matchs !",
+  "back_to_swipe": "Retour au swipe",
+  "nothing_more": "Plus rien à voir !",
+  "see_matches": "Voir mes matchs",
+  "explore_all": "Tu as exploré tous les profils disponibles pour aujourd'hui",
+  "my_matches": "Mes matchs"
+}

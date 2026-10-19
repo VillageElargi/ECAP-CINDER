@@ -1,0 +1,113 @@
+{
+  "slogan": "Entfache meine Flamme",
+  "start": "Starten",
+  "profiles": {
+    "1": {
+      "name": "Der Kühlschrank (Defekt, Staub, Kompressor)",
+      "bio": "Auf den ersten Blick bin ich ziemlich kühl und du solltest nicht erwarten, dass ich mich leicht öffne. Aber wenn die Chemie stimmt, zeige ich dir meine ganz heiße Seite!",
+      "h_1": "#SnackTime"
+    },
+    "2": {
+      "name": "Der Geschirrspüler (ohne Mängel)",
+      "bio": "Ich bin hier, um deine schmutzigsten Sünden abzuwaschen. Benutze mich ganz wie du willst. 🖤",
+      "h_1": "#DomDaddy"
+    },
+    "3": {
+      "name": "Airfryer (ohne Mängel)",
+      "bio": "Seien wir ehrlich, im Moment reden alle nur über mich, und ich bin viel gesünder als deine Ex-Partner. Ich weiß, wie ich dich in Rekordzeit glücklich mache. Du wirst nicht mehr ohne mich leben können. 🥵",
+      "h_1": "#Influencer"
+    },
+    "4": {
+      "name": "Der Staubsauger (ohne Mängel)",
+      "bio": "Ich brauche viel Liebe und sehne mich nach einer exklusiven Beziehung. One-Night-Stands? Nein danke, such das Weite!",
+      "h_1": "#BCBJ"
+    },
+    "5": {
+      "name": "Der Ventilator (ohne Mängel)",
+      "bio": "Man sagt mir oft nach, ich würde nur heiße Luft verbreiten... Aber hey, ich finde das super! Haha, sehen wir uns bald auf einen Sprung?",
+      "h_1": "#Fun",
+      "h_2": "#Comedy"
+    },
+    "6": {
+      "name": "Der E-Scooter (ohne Mängel)",
+      "bio": "Ich werde dich zum Fliegen bringen, aber ich könnte dich mit leerem Akku mitten in der Wildnis stehen lassen, wenn du mich betrügst...",
+      "h_1": "#OhneSchutz"
+    },
+    "7": {
+      "name": "Elektrische Zahnbürste (ohne Mängel)",
+      "bio": "Hallo. Ich bin ein bisschen schüchtern und das ist mein erstes Mal hier. Wenn ich zittere, keine Sorge, das ist ganz normal. Ich hoffe, meine Vibrationen machen dir keine Angst...",
+      "h_1": "#ZusammenVibrieren"
+    },
+    "8": {
+      "name": "Wäschetrockner (ohne Mängel)",
+      "bio": "Lass mich dich in meine Wärme einhüllen. Ich bin der perfekte Grund, sich auszuziehen und die Nacht gemütlich aneinander gekuschelt im Warmen zu verbringen. Kommst du heute Abend zu mir?",
+      "h_1": "#Humid"
+    },
+    "9": {
+      "name": "Kaffeemaschine (ohne Mängel)",
+      "bio": "Ich bin der Nervenkitzel, der dich direkt nach dem Aufwachen in Schwung bringt, und das Geheimnis deiner heißesten Morgenstunden. Ich setze Aromen frei, die dich schwach werden lassen. Koste mich einmal, und du wirst süchtig sein.",
+      "h_1": "#DoubleEspresso"
+    },
+    "10": {
+      "name": "Desktop-Computer (ohne Mängel)",
+      "bio": "Ich will all deine geheimen Wünsche kennen und sie auf meiner SSD verewigen. Meine RAM wartet nur auf dich... Wenn du eine intensive Verbindung ohne Bugs suchst, swipe nach rechts, um meine CPU freizuschalten.",
+      "h_1": "#11010001"
+    },
+    "11": {
+      "name": "Kamin (ohne Mängel)",
+      "bio": "Match, wenn du es liebst, den Flammen beim Tanzen zuzusehen und Geschichten am Lagerfeuer zu teilen… Wir sind füreinander geschaffen! 🔥",
+      "h_1": "#Winter"
+    },
+    "12": {
+      "name": "Plattenspieler (ohne Mängel)",
+      "bio": "Als großer Fan von Slow Dating nehme ich mir Zeit, auf mein Herz zu hören. Ich suche eine feinfühlige Seele für gute Schwingungen. Welches Lied ist in dein Herz eingebrannt?",
+      "h_1": "#RickyMartin",
+      "h_2": "#EltonJohn"
+    },
+    "13": {
+      "name": "Konsolen-Controller (ohne Mängel)",
+      "bio": "Immer bereit für Action! Ich liebe es, in die Hand genommen zu werden und im Rhythmus des Abenteuers zu vibrieren. Ich bin sehr taktil und springe sofort an. Lust auf eine Runde Co-Op?",
+      "h_1": "#Gamergirl"
+    },
+    "14": {
+      "name": "Mikrowelle (ohne Mängel)",
+      "bio": "Ich habe keine Zeit für langes Gerede, ich bin direkt und habe dich in weniger als zwei Minuten um den Finger gewickelt. Ich liebe unkomplizierte nächtliche Treffen. Wenn du es magst, wenn alles rundläuft, meld dich.",
+      "h_1": "#Ready",
+      "h_2": "#Steady",
+      "h_3": "#Go!"
+    },
+    "15": {
+      "name": "Bügeleisen (ohne Mängel)",
+      "bio": "Ich hasse Unordentlichkeit. Bei mir muss alles perfekt gerade und glatt sein. Ich mache mich schick für dich, und wenn du bereit bist, bügeln wir gemeinsam alle Falten des Lebens glatt!",
+      "h_1": "#PicoBello"
+    },
+    "16": {
+      "name": "Elektroheizung (Defekt, Gegenstand auf heißem Teil)",
+      "bio": "Mein großer Auftritt ist, wenn das Thermometer gegen Null sinkt. Meine elektro Wärme lässt dich die Kälte vergessen. Mein perfekter Plan: ein gemütliches Plätzchen unter der Decke.",
+      "h_1": "#CocooningLife"
+    },
+    "17": {
+      "name": "Telefon (Defekt, aufgeblähter Akku) MATCH",
+      "bio": "Immer online, nehme ich es mit der Zeit auf TikTok oft nicht so genau. Dafür biete ich tausende Erinnerungen und ein morgendliches Wecken. Ich suche jemanden, der mich jeden Abend liebevoll auflädt. ❤️",
+      "h_1": "#MemeLover",
+      "h_2": "#BBL"
+    },
+    "18": {
+      "name": "Wasserkocher (Defekt, fehlende Zertifizierungen und Überhitzungsspuren) MATCH",
+      "bio": "Ich sprudele über vor Ideen und liebe es, ungewöhnliche exotische Mischungen ziehen zu lassen. Ich suche einen neugierigen Partner, um sie zu testen. Bringst du mich zum Schmelzen...?",
+      "h_1": "#MadeInChina",
+      "h_2": "#Tasty"
+    },
+    "19": {
+      "name": "Haartrockner (Defekt, Funkenflug am Motor)",
+      "bio": "Im Alltag eher zurückhaltend, aber verdammt laut, sobald man mich anmacht! Meine Leidenschaft: einen Wirbelwind des Chaos durch deine wilden Strähnen zu jagen. Mach dich bereit für sprühende Funken!",
+      "h_1": "#Caliente"
+    },
+    "20": {
+      "name": "Steckerleisten-Profil (Defekt, Reihenschaltung) MATCH",
+      "bio": "Ich bin der Chefmanager von vier zickigen kleinen Kabeln und ihren Familien. Ich verurteile kein Gerät. Wie viele Geräte hast du in genau diesem Moment eingesteckt? 😉",
+      "h_1": "#Verbunden",
+      "h_2": "#Ausgebucht"
+    }
+  }
+}

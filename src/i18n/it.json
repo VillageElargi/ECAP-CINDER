@@ -1,0 +1,113 @@
+{
+  "slogan": "Accendi la mia fiamma",
+  "start": "Inizia",
+  "profiles": {
+    "1": {
+      "name": "Il Frigorifero (difetto, polvere, compressore)",
+      "bio": "Sembro freddo a prima vista e non aspettarti che mi apra facilmente. Ma se c'è feeling, ti farò scoprire il mio lato bollente!",
+      "h_1": "#SnackTime"
+    },
+    "2": {
+      "name": "La Lavastoviglie (senza difetti)",
+      "bio": "Sono qui per lavare i tuoi peccati più sporchi. Usami pure come desideri. 🖤",
+      "h_1": "#DomDaddy"
+    },
+    "3": {
+      "name": "Airfryer (senza difetti)",
+      "bio": "Siamo onesti, al momento tutti parlano solo di me, e sono decisamente più sano dei tuoi ex. So come soddisfarti in tempo record. Non potrai più fare a meno di me. 🥵",
+      "h_1": "#Influencer"
+    },
+    "4": {
+      "name": "L'Aspirapolvere (senza difetti)",
+      "bio": "Ho un grande bisogno di affetto e aspiro a una relazione esclusiva. Le avventure di una notte? No grazie, aria!",
+      "h_1": "#BCBJ"
+    },
+    "5": {
+      "name": "Il Ventilatore (senza difetti)",
+      "bio": "Mi dicono spesso che amo solo fare aria... Beh, io dico che è fantastico! Haha, ci vediamo presto per un incontro lampo?",
+      "h_1": "#Fun",
+      "h_2": "#Comedy"
+    },
+    "6": {
+      "name": "Il Monopattino Elettrico (senza difetti)",
+      "bio": "Ti farò volare, ma potrei abbandonarti in mezzo alla natura senza batteria se mi tradisci...",
+      "h_1": "#SenzaProtezione"
+    },
+    "7": {
+      "name": "Spazzolino da Denti Elettrico (senza difetti)",
+      "bio": "Ciao. Sono un po' timido ed è la mia prima volta qui. Se tremo, non preoccuparti, è normale. Spero che le mie vibrazioni non ti spaventino...",
+      "h_1": "#VibrareInsieme"
+    },
+    "8": {
+      "name": "Asciugatrice (senza difetti)",
+      "bio": "Lasciati avvolgere dal mio calore. Sono il motivo perfetto per svestirti e passare la notte al caldo, rannicchiati l'uno contro l'altra. Ti va di fare un salto da me stasera?",
+      "h_1": "#Humid"
+    },
+    "9": {
+      "name": "Macchina del Caffè (senza difetti)",
+      "bio": "Sono il brivido che ti farà vibrare fin dal risveglio e le segreto delle tue mattine più torride. Sprigiono aromi che ti faranno cedere. Assaggiami una volta e diventerò il tuo vizio preferito.",
+      "h_1": "#DoubleEspresso"
+    },
+    "10": {
+      "name": "Computer Fisso (senza difetti)",
+      "bio": "Voglio conoscere tutti i tuoi desideri segreti e salvarli nel mio SSD. La mia RAM aspetta solo te... Se cerchi una connessione intensa e senza bug, fai swipe a destra per aprire il mio CPU.",
+      "h_1": "#11010001"
+    },
+    "11": {
+      "name": "Camino (senza difetti)",
+      "bio": "Fai match se ami guardare le fiamme danzare e condividere storie davanti al fuoco… Siamo fatti per intenderci! 🔥",
+      "h_1": "#Inverno"
+    },
+    "12": {
+      "name": "Giradischi (senza difetti)",
+      "bio": "Grande appassionato di slow dating, mi prendo il tempo di ascoltare il mio cuore. Cerco un'anima sensibile alle buone vibrazioni. Quale canzone è incisa nel tuo cuore?",
+      "h_1": "#RickyMartin",
+      "h_2": "#EltonJohn"
+    },
+    "13": {
+      "name": "Joystick della Console (senza difetti)",
+      "bio": "Sempre pronta all'azione, adoro essere presa in mano e vibrare al ritmo dell'avventura. Sono molto tactile e mi attivo in un attimo. Facciamo una partita in co-op?",
+      "h_1": "#Gamergirl"
+    },
+    "14": {
+      "name": "Forno a Microonde (senza difetti)",
+      "bio": "Non ho tempo per i lunghi discorsi, sono diretto e ti conquisto in meno di due minuti netti. Amo gli incontri notturni senza troppi fronzoli. Se ti piace quando tutto gira per il verso giusto, fatti sentire.",
+      "h_1": "#Ready",
+      "h_2": "#Steady",
+      "h_3": "#Go!"
+    },
+    "15": {
+      "name": "Ferro da Stiro (senza difetti)",
+      "bio": "Detesto la trasandatezza. Con me, tutto deve essere perfettamente dritto e impeccabile. Mi metterò in ghingheri e, se sarai all'altezza, elimineremo insieme tutte le pieghe della vita!",
+      "h_1": "#PicoBello"
+    },
+    "16": {
+      "name": "Riscaldamento Elettrico (difetto, oggetto su parte calda)",
+      "bio": "Il mio momento di gloria é quando la temperatura scende vicino allo zero. Il mio calore elettrico ti farà dimenticare il freddo. Il mio piano perfetto: un angolino accogliente sotto le coperte.",
+      "h_1": "#CocooningLife"
+    },
+    "17": {
+      "name": "Telefono (difetto, batteria gonfia) MATCH",
+      "bio": "Sempre connesso, ho la tendenza a perdere la cognizione del tempo su TikTok. In compenso, offro migliaia di ricordi e risvegli mattutini. Cerco qualcuno di dolce che mi ricarichi ogni sera. ❤️",
+      "h_1": "#MemeLover",
+      "h_2": "#BBL"
+    },
+    "18": {
+      "name": "Bollitore (difetto, mancanza di certificazioni e tracce di surriscaldamento) MATCH",
+      "bio": "Ribollo di idee e amo infondere miscele esotiche improbabili. Cerco un partner curioso per fare esperimenti. Riuscirai a farmi sciogliere... ?",
+      "h_1": "#MadeInChina",
+      "h_2": "#Tasty"
+    },
+    "19": {
+      "name": "Asciugacapelli (difetto, scintille dal motore)",
+      "bio": "Introverso nella vita di tutti i giorni, ma rumorosissimo non appena mi si accende! La mia passione: soffiare un vento di caos tra le tue ciocche ribelli. Preparati a fare faville!",
+      "h_1": "#Caliente"
+    },
+    "20": {
+      "name": "Profilo Multipresa (difetto, connessione in cascata) MATCH",
+      "bio": "Sono il manager capo di quattro cavetti capricciosi e delle loro famiglie. Non giudico nessun elettrodomestico. Quanti dispositivi hai collegato in questo preciso momento? 😉",
+      "h_1": "#Connesso",
+      "h_2": "#Sovraccarico"
+    }
+  }
+}

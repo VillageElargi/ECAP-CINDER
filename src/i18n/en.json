@@ -1,0 +1,113 @@
+{
+  "slogan": "Light my fire",
+  "start": "Start",
+  "profiles": {
+    "1": {
+      "name": "The Fridge (defect, dust, compressor)",
+      "bio": "I might seem cold at first glance, and don't expect me to open up easily. But if the sparks fly, I'll reveal my hot side to you!",
+      "h_1": "#SnackTime"
+    },
+    "2": {
+      "name": "The Dishwasher (no defects)",
+      "bio": "I'm here to wash away your dirtiest sins. Use me however you want. 🖤",
+      "h_1": "#DomDaddy"
+    },
+    "3": {
+      "name": "Airfryer (no defects)",
+      "bio": "Let's be honest, everyone is talking about me right now, and I'm way healthier than your exes. I know exactly how to satisfy you in record time. You won't be able to live without me. 🥵",
+      "h_1": "#Influencer"
+    },
+    "4": {
+      "name": "The Vacuum Cleaner (no defects)",
+      "bio": "I have a great need for affection and I'm looking for an exclusive relationship. One-night stands? No thanks, sweep them away!",
+      "h_1": "#BCBJ"
+    },
+    "5": {
+      "name": "The Fan (no defects)",
+      "bio": "People often tell me I'm just full of hot air... But hey, I say that's a good thing! Haha, see you in a breeze soon?",
+      "h_1": "#Fun",
+      "h_2": "#Comedy"
+    },
+    "6": {
+      "name": "The Electric Scooter (no defects)",
+      "bio": "I'm going to make you soar, but I might leave you stranded in the wilderness with a dead battery if you betray me...",
+      "h_1": "#Unprotected"
+    },
+    "7": {
+      "name": "Electric Toothbrush (no defects)",
+      "bio": "Hello. I'm a bit shy and it's my first time here. If I tremble, don't worry, it's normal. I hope my vibrations won't scare you away...",
+      "h_1": "#VibrateTogether"
+    },
+    "8": {
+      "name": "Tumble Dryer (no defects)",
+      "bio": "Let me wrap you in my warmth. I am the perfect reason to strip down and spend the night warm, snuggled up against each other. Want to come over to my place tonight?",
+      "h_1": "#Humid"
+    },
+    "9": {
+      "name": "Coffee Machine (no defects)",
+      "bio": "I am the thrill that will make you buzz right after waking up and the secret to your hottest mornings. I release the aromas that will make you surrender. Taste me once, and you won't be able to get enough.",
+      "h_1": "#DoubleEspresso"
+    },
+    "10": {
+      "name": "Desktop Computer (no defects)",
+      "bio": "I want to know all your secret desires and burn them into my SSD. My RAM is just waiting for you... If you're looking for an intense, bug-free connection, swipe right to open up my CPU.",
+      "h_1": "#11010001"
+    },
+    "11": {
+      "name": "Fireplace (no defects)",
+      "bio": "Match if you love watching the flames dance and sharing stories by the fireside… We are made for each other! 🔥",
+      "h_1": "#Winter"
+    },
+    "12": {
+      "name": "Vinyl Turntable (no defects)",
+      "bio": "A true fan of slow dating, I take the time to listen to my heart. I am looking for a soul sensitive to good vibrations. Which track is engraved in your heart?",
+      "h_1": "#RickyMartin",
+      "h_2": "#EltonJohn"
+    },
+    "13": {
+      "name": "Console Controller (no defects)",
+      "bio": "Always ready for action, I love being taken in hand and vibrating to the rhythm of the adventure. I'm very tactile and respond instantly. Want to play a co-op game?",
+      "h_1": "#Gamergirl"
+    },
+    "14": {
+      "name": "Microwave (no defects)",
+      "bio": "I don't have time for long chats, I'm direct and I'll sweep you off your feet in less than two minutes flat. I love casual late-night dates. If you like things that spin, hmu.",
+      "h_1": "#Ready",
+      "h_2": "#Steady",
+      "h_3": "#Go!"
+    },
+    "15": {
+      "name": "Clothes Iron (no defects)",
+      "bio": "I hate letting things slide. With me, everything must be perfectly straight and smooth. I'll get all dressed up and, if you're up to the challenge, we will smooth out all the wrinkles of life together!",
+      "h_1": "#PicoBello"
+    },
+    "16": {
+      "name": "Electric Heater (defect, object on hot part)",
+      "bio": "My moment of glory is when the temperature drops below zero. My electric warmth will make you forget the cold. My perfect plan: a cozy spot under the blanket.",
+      "h_1": "#CocooningLife"
+    },
+    "17": {
+      "name": "Phone (defect, swollen battery) MATCH",
+      "bio": "Always connected, I tend to lose track of time on TikTok. In return, I offer thousands of memories and early morning wake-ups. Looking for someone sweet who will recharge me every night. ❤️",
+      "h_1": "#MemeLover",
+      "h_2": "#BBL"
+    },
+    "18": {
+      "name": "Kettle (defect, missing certifications and signs of overheating) MATCH",
+      "bio": "I'm bubbling with ideas and I love infusing unlikely exotic blends. I'm looking for a curious partner to test them out. Will you be able to make me melt...?",
+      "h_1": "#MadeInChina",
+      "h_2": "#Tasty"
+    },
+    "19": {
+      "name": "Hairdryer (defect, engine sparks)",
+      "bio": "An introvert in the closet, but very loud as soon as you push my buttons! My passion: blowing a wave of panic through your wild hair. Get ready to make some sparks fly!",
+      "h_1": "#Caliente"
+    },
+    "20": {
+      "name": "Power Strip Profile (defect, daisy-chained connection) MATCH",
+      "bio": "I am the manager-in-chief of four moody little cables and their families. I don't judge any appliance. How many devices do you have plugged in right at this very moment? 😉",
+      "h_1": "#Connected",
+      "h_2": "#Overbooked"
+    }
+  }
+}
