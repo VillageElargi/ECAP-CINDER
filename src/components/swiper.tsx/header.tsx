@@ -10,8 +10,8 @@ const TopBar = ({ onReset }: TopBarProps) => {
     <View style={styles.topBar}>
       <TouchableOpacity
         onLongPress={onReset}
-        delayLongPress={10000}
-        activeOpacity={0.7}
+        delayLongPress={5000}
+        activeOpacity={1}
         style={styles.logo}
       >
         <Text style={styles.icon}>🔥</Text>

@@ -1,5 +1,7 @@
 import { ProfileType } from "@/data/profiles";
+import * as Haptics from "expo-haptics";
 import { Image } from "expo-image";
+import { useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import { Modal, StyleSheet, Text, TouchableOpacity, View } from "react-native";
 
@@ -17,6 +19,13 @@ const MatchModal = ({
   seeMatches,
 }: MatchModalProps) => {
   const { t } = useTranslation();
+
+  useEffect(() => {
+    if (activeMatch) {
+      Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
+    }
+  }, [activeMatch]);
+
   return (
     <Modal
       visible={!!activeMatch}
@@ -77,11 +86,11 @@ const styles = StyleSheet.create({
     backgroundColor: "rgba(0, 0, 0, 0)",
     justifyContent: "center",
     alignItems: "center",
-    padding: 24,
+    padding: 0,
   },
   matchCard: {
     width: "100%",
-    maxWidth: 380,
+    maxWidth: "95%",
     backgroundColor: "#FFF",
     borderRadius: 28,
     padding: 24,

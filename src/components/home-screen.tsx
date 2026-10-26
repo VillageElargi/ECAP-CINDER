@@ -3,6 +3,7 @@ import { useTranslation } from "react-i18next";
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import LanguageDropdown from "./language-switcher";
 import HomeScreenIcon from "./ui/home-screen-icon";
+import TutorialScreen from "./ui/tutorial";
 
 interface HomeScreenProps {
   setIsOnMainPage: (v: boolean) => void;
@@ -24,6 +25,7 @@ const HomeScreen = ({ setIsOnMainPage }: HomeScreenProps) => {
         </View>
         <View style={styles.content}>
           <HomeScreenIcon />
+
           <View style={styles.decoContainer}>
             <View style={styles.decoLine} />
             <Text style={styles.decoText}>❄️</Text>
@@ -31,12 +33,14 @@ const HomeScreen = ({ setIsOnMainPage }: HomeScreenProps) => {
           </View>
 
           <Text style={styles.text}>{t("slogan")}</Text>
+          <TutorialScreen />
           <TouchableOpacity
             style={styles.startButton}
             onPress={() => setIsOnMainPage(true)}
           >
             <Text style={styles.buttonText}>{t("start")} 🔥</Text>
           </TouchableOpacity>
+          <Text style={styles.discrete}>Swipe · Classify · Match</Text>
         </View>
       </LinearGradient>
     </View>
@@ -45,7 +49,6 @@ const HomeScreen = ({ setIsOnMainPage }: HomeScreenProps) => {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: "#F5F7FA",
     width: "100%",
     height: "100%",
   },
@@ -57,15 +60,15 @@ const styles = StyleSheet.create({
   },
   content: {
     width: "100%",
-    flex: 1,
-    gap: 30,
+    padding: 10,
+    gap: 0,
     alignItems: "center",
     justifyContent: "center",
   },
   topBar: {
     width: "100%",
     paddingTop: 42,
-    paddingBottom: 12,
+    paddingBottom: 0,
     flexDirection: "row",
     justifyContent: "flex-end",
     alignItems: "center",
@@ -76,9 +79,10 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     gap: 10,
     alignItems: "center",
+    marginBottom: 10,
   },
   decoLine: {
-    width: 40,
+    width: 60,
     height: 1,
     backgroundColor: "rgba(230, 230, 230, 0.3)",
   },
@@ -90,9 +94,12 @@ const styles = StyleSheet.create({
     fontSize: 18,
     fontFamily: "Nunito",
     fontWeight: "500",
+    marginBottom: 10,
   },
   startButton: {
+    alignItems: "center",
     backgroundColor: "#FF445A",
+    width: "100%",
     paddingVertical: 15,
     paddingHorizontal: 40,
     borderRadius: 10,
@@ -101,11 +108,19 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.2,
     shadowRadius: 5,
     shadowOffset: { width: 0, height: 2 },
+    marginTop: 30,
   },
   buttonText: {
     color: "#FFF",
     fontSize: 18,
     fontWeight: "bold",
+  },
+  discrete: {
+    marginTop: 30,
+    textTransform: "uppercase",
+    color: "#ffffff33",
+    textAlign: "center",
+    width: "100%",
   },
 });
 

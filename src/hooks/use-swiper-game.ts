@@ -1,4 +1,5 @@
 import { profiles } from "@/data/profiles";
+import * as Updates from "expo-updates";
 import { useCallback, useState } from "react";
 import { MAX_ERRORS, SWIPES_BEFORE_MATCH } from "../constants/swiper-config";
 import { createInitialQueue } from "../utils/create-initial-queue";
@@ -14,6 +15,9 @@ export function useSwiperGame() {
   const [seenCount, setSeenCount] = useState(0);
   const [errors, setErrors] = useState(0);
 
+  const [warning, setWarning] = useState(false);
+  const [warningSendet, setWarningSendet] = useState(false);
+
   const [isMatchViewer, setIsMatchViewer] = useState(false);
   const [pendingMatches, setPendingMatches] = useState<PendingMatch[]>([]);
   const [unlockedMatches, setUnlockedMatches] = useState<number[]>([]);
@@ -26,15 +30,17 @@ export function useSwiperGame() {
 
   const isFinished = currentIndex >= queue.length;
 
-  const resetGame = useCallback(() => {
+  const resetGame = useCallback(async () => {
     setQueue(createInitialQueue());
     setCurrentIndex(0);
     setSeenCount(0);
     setErrors(0);
+    setWarning(false);
     setPendingMatches([]);
     setUnlockedMatches([]);
     setMatchQueue([]);
     setIsMatchViewer(false);
+    await Updates.reloadAsync();
   }, []);
 
   const nextProfile = useCallback(
@@ -49,7 +55,11 @@ export function useSwiperGame() {
       const nextSeenCount = seenCount + 1;
       const nextErrors = errors + (isCorrect ? 0 : 1);
 
-      // Cinq erreurs déclenchent une nouvelle partie.
+      if (nextErrors == MAX_ERRORS - 1 && !warningSendet) {
+        setWarning(true);
+        setWarningSendet(true);
+      }
+
       if (nextErrors > MAX_ERRORS) {
         resetGame();
         return;
@@ -66,7 +76,6 @@ export function useSwiperGame() {
       let unlocked = [...unlockedMatches];
       let queued = [...matchQueue];
 
-      // Le match ne peut être découvert qu'après une bonne réponse.
       if (
         isCorrect &&
         profile.match === true &&
@@ -162,5 +171,7 @@ export function useSwiperGame() {
     openMatchViewer,
     closeMatchViewer,
     openMatchesAndCloseModal,
+    warning,
+    setWarning,
   };
 }

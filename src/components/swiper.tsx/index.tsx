@@ -13,12 +13,15 @@ import { IMAGES_TO_PRELOAD } from "@/constants/swiper-config";
 import { useSwipeGesture } from "@/hooks/use-swipe-gesture";
 import { useSwiperGame } from "@/hooks/use-swiper-game";
 import { getProfileImageSource } from "@/utils/get-profile-image";
+// import { DevSettings } from "react-native";
+import * as Updates from "expo-updates";
 import Buttons from "./bouttons";
 import FinishPage from "./finish-page";
 import TopBar from "./header";
 import MatchModal from "./match-modal";
 import MatchPage from "./match-page";
 import Profile from "./profile";
+import WarningModal from "./warning-modal";
 
 const Swiper = () => {
   const game = useSwiperGame();
@@ -37,6 +40,8 @@ const Swiper = () => {
     closeMatch,
     openMatchesAndCloseModal,
     matchsTotal,
+    warning,
+    setWarning,
   } = game;
 
   const { gesture, animatedCardStyle, animatedTintStyle, resetPosition } =
@@ -58,10 +63,18 @@ const Swiper = () => {
     }
   }, [queue, currentIndex]);
 
-  const handleReset = useCallback(() => {
-    resetGame();
-    resetPosition();
-  }, [resetGame, resetPosition]);
+  // const handleReset = useCallback(() => {
+  //   resetGame();
+  //   resetPosition();
+  // }, [resetGame, resetPosition]);
+
+  const handleReset = useCallback(async () => {
+    await Updates.reloadAsync();
+  }, []);
+
+  // const handleReset = () => {
+  //   DevSettings.reload();
+  // };
 
   const handleNextProfile = useCallback(
     (direction: "left" | "right") => {
@@ -73,6 +86,7 @@ const Swiper = () => {
   return (
     <GestureHandlerRootView style={styles.container}>
       <TopBar onReset={handleReset} />
+      <WarningModal visible={warning} onClose={() => setWarning(false)} />
 
       <View style={styles.cardContainer}>
         {isMatchViewer ? (
