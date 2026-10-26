@@ -59,15 +59,6 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
 
-  topBar: {
-    paddingTop: 40,
-    paddingBottom: 10,
-  },
-  topBarTitle: {
-    fontSize: 22,
-    fontWeight: "bold",
-    color: "#FF445A",
-  },
   cardContainer: {
     flex: 1,
     height: "100%",
@@ -77,7 +68,7 @@ const styles = StyleSheet.create({
   },
   card: {
     width: SCREEN_WIDTH * 0.95,
-    height: "95%",
+    height: "100%",
     backgroundColor: "#FFF",
     borderRadius: 20,
     shadowColor: "#000",

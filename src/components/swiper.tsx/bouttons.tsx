@@ -83,6 +83,7 @@ const styles = StyleSheet.create({
     flexDirection: "column",
     alignItems: "center",
     gap: 12,
+    paddingVertical: 10,
   },
   hidder: {
     width: 68,
