@@ -40,7 +40,7 @@ Ensure you have [Node.js](https://nodejs.org) installed on your development mach
 ### 1. Clone the project and install dependencies
 
 ```bash
-git clone <your-repository-url>
+git clone git@github.com:VillageElargi/ECAP-CINDER.git
 cd cinder
 npm install
 ```
